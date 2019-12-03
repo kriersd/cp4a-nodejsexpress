@@ -46,7 +46,7 @@ metadata:
     image.opencontainers.org/title: nodejsexpress
     stack.appsody.dev/version: 0.2.8
   name: nodejsexpress
-  namespace: kabanero-samples
+  namespace: kabanero
 spec:
   applicationImage: dev.local/nodejsexpress
   createKnativeService: false
